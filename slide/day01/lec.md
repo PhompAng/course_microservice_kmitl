@@ -69,5 +69,11 @@
 	## microservice
 	- call service via API gateway
 	- each service use rest api
+	- pros
+		+ Technology Heterogeneity
+		+ Resilience
+		+ Scaling
+	- cons
+		+ complixities of distributed system
 		
 
