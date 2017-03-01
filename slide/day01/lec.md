@@ -1,14 +1,14 @@
 ##Evolution of Architecture
 - monolith
-	every service in single coomputer
-	tigh copuling
+	every service in single computer
+	tight copuling
 - tiers
 	split to multiple layers 
 - soa
 	many services work w/ each others
 - microservice
 	split to many service deployed to many computer
-	all service sperate from each other
+	all service separated from each other
 
 #Monolith
 - pros
@@ -74,6 +74,6 @@
 		+ Resilience
 		+ Scaling
 	- cons
-		+ complixities of distributed system
+		+ complexities of distributed system
 		
 
