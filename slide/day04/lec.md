@@ -4,7 +4,7 @@ Introduction to REST
 ##Key drivers of REST
  - Heterogeneous Interoperability
 
-    Communicate with other services
+    Ability to integrate with systems implemented in different programming languages and platforms. 
 
  - Devices
 
@@ -13,6 +13,8 @@ Introduction to REST
  - Cloud
 
     Moving from private server to cloud
+
+`It is critical to build a scalable architecture in order to take advantage of a scalable infra`
 
 ##Properties of REST
  - Heterogeny
@@ -41,7 +43,7 @@ Introduction to REST
 
    Self-Document - detail response message
 
-##REST Contraints
+##REST Constraints
  - **Client - server**
  - **Stateless**
  - **Caching**
